@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "defaultLocale": "zh-CN",
+  "aliases": {
+    "请打开空调": "打开空调",
+    "打开空调。": "打开空调"
+  },
+  "texts": {
+    "打开空调": {
+      "default": {
+        "zh-CN": "打开空调",
+        "en-US": "Turn on the air conditioner.",
+        "ja-JP": "エアコンをつけてください。"
+      },
+      "female": {
+        "en-US": "Please turn on the air conditioner."
+      }
+    },
+    "关闭空调": {
+      "default": {
+        "zh-CN": "关闭空调",
+        "en-US": "Turn off the air conditioner.",
+        "ko-KR": "에어컨을 꺼 주세요."
+      },
+      "male": {
+        "en-US": "Turn the air conditioner off."
+      }
+    },
+    "当前温度是{temp}度": {
+      "default": {
+        "zh-CN": "当前温度是{temp}度",
+        "en-US": "The current temperature is {temp} degrees.",
+        "fr-FR": "La température actuelle est de {temp} degrés."
+      }
+    }
+  }
+}
